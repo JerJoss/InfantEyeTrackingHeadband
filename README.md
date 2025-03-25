@@ -4,3 +4,12 @@ Keywords—infant research, eye-tracking, Pupil Labs, Neon, calibration-free eye
 
 Video demonstrations:
 https://youtu.be/ldanZW603Fs - https://youtu.be/vj5wvd1JuIk - https://youtu.be/4lynIBO4ydA
+
+
+Infant headband for Pupil Labs' Neon eyetracker — Instructions and method.pdf — Jérémie Josse (1)
+
+Custom_Neon_Module_receptacle.STL — 3D modelling by Eric Guinet (1) and Guillaume Bonnet
+
+
+
+(1) Laboratoire de Psychologie et Neuro-Cognition - UMR 5105 CNRS
