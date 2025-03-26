@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this method, please cite it as below."
+authors:
+  - family-names: Josse
+    given-names: Jérémie
+    orcid: https://orcid.org/0009-0001-1011-8892
+title: "Using Pupil Labs’ Neon eye-tracking module for infants aged 3 to 24 months"
+version: 1.0.0
+date-released: 2025-26-03
