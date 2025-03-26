@@ -2,14 +2,13 @@ While most studies analyzing infant visual attention use methods varying from an
 
 Keywords—infant research, eye-tracking, Pupil Labs, Neon, calibration-free eye-tracking
 
-Video demonstrations:
-https://youtu.be/ldanZW603Fs - https://youtu.be/vj5wvd1JuIk - https://youtu.be/4lynIBO4ydA
+<p>Video demonstrations:<br>
+https://youtu.be/ldanZW603Fs - https://youtu.be/vj5wvd1JuIk - https://youtu.be/4lynIBO4ydA</p>
+<p>DISCLAIMER:<br>
+These videos are intended solely for academic and research purposes. All content herein is shared in the context of scholarly inquiry and is not to be copied, distributed, or used for any commercial or non-research-related purpose. Unauthorized use, reproduction, or dissemination of this material is strictly prohibited.</p>
 
-
-Infant headband for Pupil Labs' Neon eyetracker — Instructions and method.pdf — Jérémie Josse (1)
-
-Custom_Neon_Module_receptacle.STL — 3D modelling by Eric Guinet (1) and Guillaume Bonnet
-
-
-
-(1) Laboratoire de Psychologie et Neuro-Cognition - UMR 5105 CNRS
+<p>Files:<br>
+Infant headband for Pupil Labs' Neon eyetracker — Instructions and method.pdf — Jérémie Josse (1)<br>
+Custom_Neon_Module_receptacle.STL — 3D modelling by Eric Guinet (1) and Guillaume Bonnet<br>
+<br>
+(1) Laboratoire de Psychologie et Neuro-Cognition - UMR 5105 CNRS</p>
