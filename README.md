@@ -3,7 +3,7 @@ While most studies analyzing infant visual attention use methods varying from an
 Keywords—infant research, eye-tracking, Pupil Labs, Neon, calibration-free eye-tracking
 
 <p>Video demonstrations:<br>
-https://youtu.be/ldanZW603Fs - https://youtu.be/vj5wvd1JuIk - https://youtu.be/4lynIBO4ydA</p>
+https://youtu.be/ldanZW603Fs - https://youtu.be/75sW56sUcog - https://youtu.be/vj5wvd1JuIk - https://youtu.be/4lynIBO4ydA</p>
 <p>DISCLAIMER:<br>
 These videos are intended solely for academic and research purposes. All content herein is shared in the context of scholarly inquiry and is not to be copied, distributed, or used for any commercial or non-research-related purpose. Unauthorized use, reproduction, or dissemination of this material is strictly prohibited.</p>
 
