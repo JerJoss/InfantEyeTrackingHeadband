@@ -7,6 +7,7 @@ authors:
 title: "Using Pupil Labs’ Neon eye-tracking module for infants aged 3 to 24 months"
 version: 1.0.0
 date-released: 2025-26-03
+url: "https://github.com/JerJoss/InfantEyeTrackingHeadband"
 preferred-citation:
   type: manual
   authors:
@@ -16,3 +17,4 @@ preferred-citation:
   title: "Using Pupil Labs’ Neon eye-tracking module for infants aged 3 to 24 months"
   version: 1.0.0
   date-released: 2025-26-03
+  url: "https://github.com/JerJoss/InfantEyeTrackingHeadband"
