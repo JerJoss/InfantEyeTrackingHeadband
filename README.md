@@ -12,3 +12,5 @@ Infant headband for Pupil Labs' Neon eyetracker — Instructions and method.pdf 
 Custom_Neon_Module_receptacle.STL — 3D modelling by Eric Guinet (1) and Guillaume Bonnet<br>
 <br>
 (1) Laboratoire de Psychologie et Neuro-Cognition - UMR 5105 CNRS</p>
+
+Thank you to Pupil Labs© for their willingness to be open source and their kind permission to make this custom use of their product public.
