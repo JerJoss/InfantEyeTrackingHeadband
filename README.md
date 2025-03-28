@@ -7,7 +7,8 @@ https://youtu.be/ldanZW603Fs - https://youtu.be/75sW56sUcog - https://youtu.be/v
 <p>DISCLAIMER:<br>
 These videos are intended solely for academic and research purposes. All content herein is shared in the context of scholarly inquiry and is not to be copied, distributed, or used for any commercial or non-research-related purpose. Unauthorized use, reproduction, or dissemination of this material is strictly prohibited.</p>
 
-<p>mail: jeremie.josse@univ-grenoble-alpes.fr<br></p>
+<p>Mail:<br>
+jeremie.josse@univ-grenoble-alpes.fr<br></p>
 
 <p>Files:<br>
 Infant headband for Pupil Labs' Neon eyetracker — Instructions and method.pdf — Jérémie Josse (1)<br>
